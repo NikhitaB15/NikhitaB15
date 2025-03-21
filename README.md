@@ -7,7 +7,7 @@
 - 🌱 Keen on learning interesting concepts in computer science.
 - 💻 I’m currently learning **Machine Learning**.
 - ⚡ Interested in brainstorming ideas and solve real worl problems.
-- ☁️ Eager to learn **Image Processing**.
+- ☁️ Eager to learn **Python FullStack**.
 - 📫 How to reach me **nikhitabhatt153@gmail.com**
 
 </a>
